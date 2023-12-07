@@ -1,6 +1,6 @@
 {
     "name": "react-native-snake-engine",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "this is designed for snake engine",
     "homepage": "https://github.com/moumlove89/react-native-snake-engine",
     "main": "index.js",
