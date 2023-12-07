@@ -1,0 +1,26 @@
+{
+    "name": "react-native-snake-engine",
+    "version": "1.0.0",
+    "description": "this is designed for snake engine",
+    "homepage": "https://github.com/moumlove89/react-native-snake-engine",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native-snake-engine"
+    ],
+    "author": {
+      "name": "snake",
+      "email": "snake@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/moumlove89/react-native-snake-engine.git"
+    },
+    "peerDependencies": {
+      "react": "*",
+      "react-native": "*"
+    }
+  }
